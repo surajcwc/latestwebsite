@@ -4,7 +4,7 @@
     height: 64px;
     justify-content: space-between;
     align-items: center;
-    padding: 1% 0%;
+    padding: 0.5rem 0rem;
     background-color: #000000;
 }
 
@@ -14,7 +14,7 @@
     display: flex;
     padding-left: 75px;
     justify-content: center;
-    align-items: center;
+    align-items: start;
     /* padding-right: 5%; */
 }
 .logo { 

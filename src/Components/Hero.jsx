@@ -1,12 +1,12 @@
 
 import '../Styles/Hero.css'    // correct path to CSS
-import Desktop from '../assets/Desktop2.png';
+import mainbg from '../assets/maingbg.png';
 import Button from './Button'
 
 function Hero() {
   return (
       <div className="first"> 
-           <img id='bgimg' className='chotu' src={Desktop} alt="" srcset="" />
+           <img id='bgimg' className='chotu' src={mainbg} alt="" srcset="" />
 
 
            <div className="hero-container">
