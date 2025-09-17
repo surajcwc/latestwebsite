@@ -29,7 +29,23 @@ function Footer() {
             </ol>
         </div>
         <div className="footer-bottom">
-            <Navbar />
+            
+            <div className="footer-bottom-Left">
+                 <img className="logo" src= 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png' alt="" srcset="" /> 
+            </div>
+           <div className="footer-bottom-links">
+                <ul>
+                   <li><a href="https://google.com"> Home</a></li>
+                   <li> <a href="https://google.com"> Contact</a></li>
+                   <li><a href="https://google.com"> About us</a></li>
+               </ul>
+           </div>
+           <div className="footer-bottom-right">
+                <Button text={'Sign up'} />
+           </div>
+
+       
+    
 
         </div>
 

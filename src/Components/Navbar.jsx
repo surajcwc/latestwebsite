@@ -19,7 +19,7 @@ function Navbar() {
                 <Button text={'Sign up'} />
            </div>
 
-           {Button}
+       
     </div>
   )
 }
