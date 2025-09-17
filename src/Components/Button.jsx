@@ -1,10 +1,11 @@
 import React from 'react';
 import '../Styles/Button.css';  // Ensure correct path and casing
 
-function Button() {
+function Button({text}) {
   return (
     <button className="btn-primary">
-      Download
+      {text}
+      
     </button>
   );
 }

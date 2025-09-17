@@ -13,9 +13,9 @@ function Hero() {
               <div className="title-hero">
                           <img src="https://storage.googleapis.com/gweb-one-cdn/one/uploads/a84a7a51fdea9f2da8a989fd5a69570cbb4afa78.svg" alt="" srcset="" />
 
-                          <h1 className="hero-title">Security, Privacy, and Freedom in One Check</h1>
+                          <h1 className="hero-title">Security, Privacy, and Freedom in <span>One Check</span></h1>
                           {/* <p>Access global content, protect your data, and take advantage of quick, secure connections wherever.</p> */}
-                          <Button />
+                          <Button text={'Get Started'} />
                   </div>
 
                        

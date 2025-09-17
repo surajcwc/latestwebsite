@@ -9,15 +9,19 @@
 h1{
     font-size: 96px;
     font-weight: 700;
+    padding-bottom: 2rem;
 }
 h2{
     padding: 0px;
     margin: 0%;
 }
+span{
+    color: #1967D2;
+}
 
 .title-hero{
     width: 1100px;
-    line-height: 1.2;
+    line-height: 1.1;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -44,9 +48,11 @@ h2{
     display: flex;
     gap: 2rem;
     height: max-content;
+    color: white;
     padding: 16px 16px 8px 16px ;
     border-radius: 2rem;
-    background-color: #313131;
+    background-color: rgba(49, 49, 49, 0.8);
+    opacity: .8;
     text-align: left;
 }
 .right-text{
@@ -54,9 +60,13 @@ h2{
     height: max-content;
 }
 .bottom p{
-    color: #b6b6b6;
+    color: #e2e2e2;
     text-align: left;
 }
 .bottom img{
     width: 100%;
+}
+.left-small{
+    display: flex;
+    align-items: center;
 }

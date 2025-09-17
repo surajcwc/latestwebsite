@@ -1,0 +1,18 @@
+.last{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    background-color: #141414;
+    align-items: center;
+    margin-top: 10rem;
+    padding-top: 2rem;
+
+}
+.last h2{
+    font-size: 4rem;
+    width: 600px;
+    text-align: center;
+    line-height: 1;
+}
