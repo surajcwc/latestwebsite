@@ -1,7 +1,7 @@
 import Banner from './Components/Banner.jsx'
 import Navbar from './Components/Navbar.jsx'
 import Hero from './Components/Hero.jsx'
-import './styles/App.css'    // correct path to CSS
+import './Styles/App.css'
 
 function App() {
   return (
