@@ -1,0 +1,14 @@
+.btn-primary {
+  padding: 16px 32px;
+  background: linear-gradient(89.58deg, #3186FF .28%, #346BF0 44.45%, #4EA0FF 99.55%);;
+  color: white;
+  border: none;
+  border-radius: 80px;
+  cursor: pointer;
+  font-size: 18px;
+  width: fit-content;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
