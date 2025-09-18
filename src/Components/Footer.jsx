@@ -8,7 +8,7 @@ function Footer() {
   return (
     <div className='footer'>
         <div className="footer-top">
-            <h2>Manage your plan and more with the Google One app</h2>
+            <h2>Manage your plan and more with the Senton One app</h2>
                 <div className="buttons">
                     <img src="https://lh3.googleusercontent.com/zWYJUppfU-TunHSxKMA6i1LRpv2POWaGCOOcvwR2h1E_R8LZ3RCiMUgbyxJDGFQqePR3G5BA3MdpUw4_BtQ_mefV36WH3tnBrV3ZkuSj=e365-pa-nu-w200" alt="" />
                     <img src="https://lh3.googleusercontent.com/lxsXDCeIX7iYaMIzxmJ8ttfE3TRNeCCNbB9TUWT0W0D9R4JlhemtyWUg0zDR69NCVWDvVMVd9uZ-hDHExoqfTxZnIlQrx1p7mGSr-g=e365-pa-nu-w200" alt="" />
