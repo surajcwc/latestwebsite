@@ -16,16 +16,12 @@ function Footer() {
         </div>
         <div className="footer-middle">
             <ol>
-                <li>Google AI Pro is available in more than 150 countries and territories – see full list of countries. Certain AI benefits are only available for ages 18+. Learn more.</li>
-                <li>Google AI Pro is available in more than 150 countries and territories – see full list of countries. Certain AI benefits are only available for ages 18+. Learn more.</li>
-                <li>Google AI Pro is available in more than 150 countries and territories – see full list of countries. Certain AI benefits are only available for ages 18+. Learn more.</li>
-                <li>Google AI Pro is available in more than 150 countries and territories – see full list of countries. Certain AI benefits are only available for ages 18+. Learn more.</li>
-                <li>Google AI Pro is available in more than 150 countries and territories – see full list of countries. Certain AI benefits are only available for ages 18+. Learn more.</li>
-                <li>Google AI Pro is available in more than 150 countries and territories – see full list of countries. Certain AI benefits are only available for ages 18+. Learn more.</li>
-                <li>Google AI Pro is available in more than 150 countries and territories – see full list of countries. Certain AI benefits are only available for ages 18+. Learn more.</li>
-                <li>Google AI Pro is available in more than 150 countries and territories – see full list of countries. Certain AI benefits are only available for ages 18+. Learn more.</li>
-                <li>Google AI Pro is available in more than 150 countries and territories – see full list of countries. Certain AI benefits are only available for ages 18+. Learn more.</li>
-                <li>Google AI Pro is available in more than 150 countries and territories – see full list of countries. Certain AI benefits are only available for ages 18+. Learn more.</li>
+                <li>Senton VPN keeps your connection secure and private across 150+ countries worldwide.</li>
+                <li>Some premium features may vary depending on local laws and regulations.</li>
+                <li>Senton VPN services are designed for users aged 18 and above.</li>
+                <li>Read our Privacy Policy and Terms of Service to learn more about how we protect your data.</li>
+                <li>Stay safe online with fast, reliable, and encrypted VPN connections.</li>
+                <li>For support and inquiries, please visit our Help Center or contact our team anytime.</li>
             </ol>
         </div>
         <div className="footer-bottom">
