@@ -4,6 +4,7 @@ import Desktop from '../assets/mainbg.png'
 import Button from './Button'
 
 function Hero() {
+
   return (
       <div className="first"> 
            <img id='bgimg' className='chotu' src={Desktop} alt="" srcset="" />

@@ -4,6 +4,7 @@ import plansbg from '../assets/plansbg.png'
 import Button from './Button'
 
 function Plans() {
+
   return (
       <div className="plans-container">
         <img className='plansbg' src={plansbg} alt="" /> 
