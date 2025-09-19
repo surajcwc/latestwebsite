@@ -13,6 +13,11 @@
     align-items: center;
     
 }
+.slider ul li.active {
+  color: blue;
+  font-weight: bold;
+  border-bottom: 2px solid blue;
+}
 .middle-first{
     width: 100%;
     display: flex;
@@ -23,6 +28,9 @@
 .middle h1 {
     width: 1280px;
     padding-bottom: 5rem;
+}
+.slider ul li.active{
+    color: #1967D2;
 }
 .middle span{
     color: #1967D2;
@@ -44,11 +52,16 @@
 
 }
 .slideshow{
-    margin-top: 10rem;
+    margin-top: 5rem;
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 2rem;
+}
+.slideshow img{
+    width: 1280px;
+    height: 100%;
+    border-radius: 48px;
 }
 .slideshow h2{
     font-size: 3rem;

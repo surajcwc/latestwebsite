@@ -1,0 +1,10 @@
+.grid{
+    display: grid;
+    grid-template-areas:
+    "header"
+    "left right";
+  grid-template-columns: 1fr 1fr;   /* bottom: 2 equal columns */
+  grid-template-rows: auto 1fr;     /* top auto height, bottom flexible */
+  gap: 10px;
+  height: 100vh; /* full screen height just for demo */ 
+}
