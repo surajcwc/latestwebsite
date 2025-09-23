@@ -1,6 +1,8 @@
 
 import '../Styles/Navbar.css'
+import { Link } from 'react-router-dom';
 import Button from './Button'
+import Plans from './Plans.jsx'
 
 function Navbar() {
   return (
@@ -10,9 +12,10 @@ function Navbar() {
             </div>
            <div className="links">
                 <ul>
-                   <li><a href="https://google.com"> Home</a></li>
-                   <li> <a href="https://google.com"> Contact</a></li>
-                   <li><a href="https://google.com"> About us</a></li>
+                   <li> <Link to="/">Home</Link> </li>
+                   <li> <Link to="/Productivity">Productivity</Link> </li>
+                 
+                 
                </ul>
            </div>
            <div className="right">
